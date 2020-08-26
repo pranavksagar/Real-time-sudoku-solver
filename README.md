@@ -1,6 +1,8 @@
 # Real-time-sudoku-solver
 
-The application is a sudoku solver in real time which recognises the digits in the unsolved sudoku image from the webcam using computer vision and solves the sudoku.
+The application is a sudoku solver in real time which recognises the digits in the unsolved sudoku image from the webcam using computer vision and solves the sudoku. Following is the small demo of the working project:
+
+![] (demo.gif)
 
 # Approach
 
